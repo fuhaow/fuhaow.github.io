@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>化学创新药的非临床研究流程</title>
+      <link href="/2022/06/05/2022-06-05-chemical-IND-nonclinical-studies/"/>
+      <url>/2022/06/05/2022-06-05-chemical-IND-nonclinical-studies/</url>
+      
+        <content type="html"><![CDATA[<p>　　在制药领域，广义的非临床研究应该包括药学研究以及动物体内和体外的药理毒理研究，本文中非临床研究的概念采用的是狭义的非临床研究，即仅指代动物体内和体外的药理毒理研究，药学研究将开另外一个系列进行总结。</p><h1 id="化学创新药非临床研究流程概述"><a href="#化学创新药非临床研究流程概述" class="headerlink" title="化学创新药非临床研究流程概述"></a>化学创新药非临床研究流程概述</h1><p>　　化学创新药在进入首次临床研究前的非临床研究理想路线（即在一切顺利的情况下）一般按照下列顺序进行1：<br>　　1. 靶点选择和确证（knock-out, siRNA, antisense, antibody等）<br>　　2. 高通量筛选（High throughput screening）<br>　　3. 药物合成（合成非临床试验用药物）<br>　　4. 体外药效学试验（使用动物活体进行试验之前，先使用纯化酶或细胞证明具有药效作用的可能）<br>　　5. 药代动力学研究（为动物模型的选择和建立做准备）<br>　　6. 建立动物模型<br>　　7. 药物筛选（动物体内药效试验<br>　　8. 毒理研究（急毒长毒遗传毒生殖毒等）<br>　　9. 药学优化（根据拿到的毒理数据，从药学角度出发（比如调整工艺或处方），对可能严重影响药物安全性的关键属性进行优化）<br>　　10. 申请临床试验（IND）</p><p>　　对于化学创新药来说，在首次进入人体临床研究之前，在药理学方面要完成主要药效学和次要药效学研究；药代动力学要完成吸收、分布、代谢、排泄的研究，并完成分析方法开发和药物相互作用的研究；在安全性评价方面要完成安全药理学、剂量探索研究单次给药毒性（可以合并在同一个试验中一并完成）、重复给药毒性以及遗传毒性研究；<br>　　在进入III期临床试验之前，药代动力学要完成质量平衡研究，并进一步完善药物相互作用研究；在安全性方面，一方面要完成可支持临床试验周期的重复给药毒性研究，另一方面要完成I段和II段的生殖毒性研究<br>　　在申请上市申请之前，要完成可支持上市后用药周期的重复给药毒性研究，同时完成III段的生殖毒性研究，并在必要的情况下完成致癌性试验。<br>　　<br>　　各关键时间节点前需完成的非临床研究请见下表：</p><table><thead><tr><th align="center"></th><th align="center">Pre-IND</th><th align="center">IND — Pre-Phase III</th><th align="center">Phase III - NDA</th></tr></thead><tbody><tr><td align="center">PD</td><td align="center">Primary PD, Secondary PD</td><td align="center"></td><td align="center"></td></tr><tr><td align="center">PK</td><td align="center">Absorption, Distribution, Metabolism, Excretion, Analytical methods, DDI</td><td align="center">Mass Balance, DDI</td><td align="center"></td></tr><tr><td align="center">Safety</td><td align="center">DRF，RD tox, SP, Genotoxicity</td><td align="center">RD tox, Seg I, Seg II</td><td align="center">RD tox, Seg III, Carcinogenicity</td></tr></tbody></table><p>英文缩写中文解释：<em>Pre-IND &#x3D; 临床试验申请前；IND &#x3D; 临床试验申请； Phase III &#x3D; III期临床试验； NDA &#x3D; 药品上市申请； PD &#x3D; 药效学； Primary PD &#x3D; 主要药效学研究；Secondary PD&#x3D;次要药效学研究；PK&#x3D;药代动力学；Absorption&#x3D;吸收研究；Distritbution&#x3D;分布研究；Metabolism&#x3D;代谢研究；Excretion&#x3D;排泄研究；Analytical methods&#x3D;分析方法；DDI&#x3D;药物相互作用研究；Mass Balance&#x3D;质量平衡研究；Safety&#x3D;安全性研究；DRF&#x3D;剂量范围探索研究；RD tox&#x3D;重复给药毒性研究；SP&#x3D;安全药理学研究；Genotoxicity&#x3D;遗传毒性研究；SegI&#x2F;II&#x2F;III&#x3D;生殖毒性I&#x2F;II&#x2F;III段研究；Carcinogenicity&#x3D;致癌性研究</em></p><p>　　或者，你习惯看中文的话：</p><table><thead><tr><th align="center"></th><th align="center">临床试验申请前</th><th align="center">临床试验申请 — III期临床试验前</th><th align="center">III期临床试验 - 药品上市申请</th></tr></thead><tbody><tr><td align="center">药效学</td><td align="center">主要药效学研究，次要药效学研究</td><td align="center"></td><td align="center"></td></tr><tr><td align="center">药代动力学</td><td align="center">吸收研究，分布研究，代谢研究，排泄研究，分布研究，药物相互作用研究</td><td align="center">质量平衡研究，药物相互作用研究</td><td align="center"></td></tr><tr><td align="center">安全性研究</td><td align="center">剂量范围探索研究，重复给药毒性研究，安全药理学，遗传毒性研究</td><td align="center">重复给药毒性研究，生殖毒性I段研究，生殖毒性II段研究</td><td align="center">重复给药毒性研究，生殖毒性III段研究，致癌性研究</td></tr><tr><td align="center">后续会撰写一系列的文章对上述研究进行详细讲解。</td><td align="center"></td><td align="center"></td><td align="center"></td></tr></tbody></table><p>　　参考资料：</p><ol><li><a href="http://yaoxue8.com/view/4831.html">新药临床前研发问题讨论</a></li><li><a href="https://www.medmeeting.com/#/home/VIDEO/videoDetail/16144?shenCeInfo=%7B%22type%22%3A%22%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5%22%7D">化学药品创新药IND申报药理毒理学及药代动力学差距分析要点介绍</a></li></ol>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 化学药品 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>2022年6月5日的博客</title>
       <link href="/2022/06/04/2022-06-05-daily-blog/"/>
       <url>/2022/06/04/2022-06-05-daily-blog/</url>
