@@ -29,7 +29,7 @@
     --body-bg-color: url("/images/cyberpunk-background.jpg");
     --content-bg-color: #333;
     --card-bg-color: #555;
-    --text-color: #ddd;
+    --text-color: #eee;
     --blockquote-color: #bbb;
     --link-color: #ccc;
     --link-hover-color: #eee;
@@ -40,10 +40,10 @@
     --menu-item-bg-color: #555;
     --theme-color: #222;
     --btn-default-bg: #222;
-    --btn-default-color: #ddd;
+    --btn-default-color: #eee;
     --btn-default-border-color: #555;
     --btn-default-hover-bg: #666;
-    --btn-default-hover-color: #ddd;
+    --btn-default-hover-color: #eee;
     --btn-default-hover-border-color: #666;
     --highlight-background: #1c1b1b;
     --highlight-foreground: #fff;
@@ -211,7 +211,7 @@ template {
 }
 ::selection {
   background: #262a30;
-  color: #eee;
+  color: #fc6423;
 }
 html,
 body {
@@ -222,7 +222,7 @@ body {
   box-sizing: border-box;
   color: var(--text-color);
   font-family: Times New Roman, FangSong, 'PingFang SC', 'Microsoft YaHei', sans-serif;
-  font-size: 1em;
+  font-size: 1.2em;
   line-height: 2;
   min-height: 100%;
   position: relative;
@@ -2922,9 +2922,6 @@ body {
   opacity: 0.8;
 }
 .sidebar-inner {
-  opacity: 0.9;
-}
-.header-inner {
   opacity: 0.9;
 }
 .post-block {
