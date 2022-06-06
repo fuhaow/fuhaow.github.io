@@ -4,30 +4,11 @@
   
     
     <entry>
-      <title>化学创新药的非临床研究流程</title>
-      <link href="/2022/06/05/2022-06-05-chemical-IND-nonclinical-studies/"/>
-      <url>/2022/06/05/2022-06-05-chemical-IND-nonclinical-studies/</url>
+      <title>人还是得有个计划……</title>
+      <link href="/2022/06/06/2022-06-06-daily-blog/"/>
+      <url>/2022/06/06/2022-06-06-daily-blog/</url>
       
-        <content type="html"><![CDATA[<p>　　在制药领域，广义的非临床研究应该包括药学研究以及动物体内和体外的药理毒理研究，本文中非临床研究的概念采用的是狭义的非临床研究，即仅指代动物体内和体外的药理毒理研究，药学研究将开另外一个系列进行总结。</p><h1 id="化学创新药非临床研究流程概述"><a href="#化学创新药非临床研究流程概述" class="headerlink" title="化学创新药非临床研究流程概述"></a>化学创新药非临床研究流程概述</h1><p>　　化学创新药在进入首次临床研究前的非临床研究理想路线（即在一切顺利的情况下）一般按照下列顺序进行1：<br>　　1. 靶点选择和确证（knock-out, siRNA, antisense, antibody等）<br>　　2. 高通量筛选（High throughput screening）<br>　　3. 药物合成（合成非临床试验用药物）<br>　　4. 体外药效学试验（使用动物活体进行试验之前，先使用纯化酶或细胞证明具有药效作用的可能）<br>　　5. 药代动力学研究（为动物模型的选择和建立做准备）<br>　　6. 建立动物模型<br>　　7. 药物筛选（动物体内药效试验<br>　　8. 毒理研究（急毒长毒遗传毒生殖毒等）<br>　　9. 药学优化（根据拿到的毒理数据，从药学角度出发（比如调整工艺或处方），对可能严重影响药物安全性的关键属性进行优化）<br>　　10. 申请临床试验（IND）</p><p>　　对于化学创新药来说，在首次进入人体临床研究之前，在药理学方面要完成主要药效学和次要药效学研究；药代动力学要完成吸收、分布、代谢、排泄的研究，并完成分析方法开发和药物相互作用的研究；在安全性评价方面要完成安全药理学、剂量探索研究单次给药毒性（可以合并在同一个试验中一并完成）、重复给药毒性以及遗传毒性研究；<br>　　在进入III期临床试验之前，药代动力学要完成质量平衡研究，并进一步完善药物相互作用研究；在安全性方面，一方面要完成可支持临床试验周期的重复给药毒性研究，另一方面要完成I段和II段的生殖毒性研究<br>　　在申请上市申请之前，要完成可支持上市后用药周期的重复给药毒性研究，同时完成III段的生殖毒性研究，并在必要的情况下完成致癌性试验。<br>　　<br>　　各关键时间节点前需完成的非临床研究请见下表：</p><table><thead><tr><th align="center"></th><th align="center">Pre-IND</th><th align="center">IND — Pre-Phase III</th><th align="center">Phase III - NDA</th></tr></thead><tbody><tr><td align="center">PD</td><td align="center">Primary PD, Secondary PD</td><td align="center"></td><td align="center"></td></tr><tr><td align="center">PK</td><td align="center">Absorption, Distribution, Metabolism, Excretion, Analytical methods, DDI</td><td align="center">Mass Balance, DDI</td><td align="center"></td></tr><tr><td align="center">Safety</td><td align="center">DRF，RD tox, SP, Genotoxicity</td><td align="center">RD tox, Seg I, Seg II</td><td align="center">RD tox, Seg III, Carcinogenicity</td></tr></tbody></table><p>英文缩写中文解释：<em>Pre-IND &#x3D; 临床试验申请前；IND &#x3D; 临床试验申请； Phase III &#x3D; III期临床试验； NDA &#x3D; 药品上市申请； PD &#x3D; 药效学； Primary PD &#x3D; 主要药效学研究；Secondary PD&#x3D;次要药效学研究；PK&#x3D;药代动力学；Absorption&#x3D;吸收研究；Distritbution&#x3D;分布研究；Metabolism&#x3D;代谢研究；Excretion&#x3D;排泄研究；Analytical methods&#x3D;分析方法；DDI&#x3D;药物相互作用研究；Mass Balance&#x3D;质量平衡研究；Safety&#x3D;安全性研究；DRF&#x3D;剂量范围探索研究；RD tox&#x3D;重复给药毒性研究；SP&#x3D;安全药理学研究；Genotoxicity&#x3D;遗传毒性研究；SegI&#x2F;II&#x2F;III&#x3D;生殖毒性I&#x2F;II&#x2F;III段研究；Carcinogenicity&#x3D;致癌性研究</em></p><p>　　或者，你习惯看中文的话：</p><table><thead><tr><th align="center"></th><th align="center">临床试验申请前</th><th align="center">临床试验申请 — III期临床试验前</th><th align="center">III期临床试验 - 药品上市申请</th></tr></thead><tbody><tr><td align="center">药效学</td><td align="center">主要药效学研究，次要药效学研究</td><td align="center"></td><td align="center"></td></tr><tr><td align="center">药代动力学</td><td align="center">吸收研究，分布研究，代谢研究，排泄研究，分布研究，药物相互作用研究</td><td align="center">质量平衡研究，药物相互作用研究</td><td align="center"></td></tr><tr><td align="center">安全性研究</td><td align="center">剂量范围探索研究，重复给药毒性研究，安全药理学，遗传毒性研究</td><td align="center">重复给药毒性研究，生殖毒性I段研究，生殖毒性II段研究</td><td align="center">重复给药毒性研究，生殖毒性III段研究，致癌性研究</td></tr><tr><td align="center">后续会撰写一系列的文章对上述研究进行详细讲解。</td><td align="center"></td><td align="center"></td><td align="center"></td></tr></tbody></table><p>　　参考资料：</p><ol><li><a href="http://yaoxue8.com/view/4831.html">新药临床前研发问题讨论</a></li><li><a href="https://www.medmeeting.com/#/home/VIDEO/videoDetail/16144?shenCeInfo=%7B%22type%22%3A%22%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5%22%7D">化学药品创新药IND申报药理毒理学及药代动力学差距分析要点介绍</a></li></ol>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 化学药品 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>2022年的第155天</title>
-      <link href="/2022/06/04/2022-06-05-daily-blog/"/>
-      <url>/2022/06/04/2022-06-05-daily-blog/</url>
-      
-        <content type="html"><![CDATA[<p>昨天吃到一个很好吃的烤鱼饭外卖，今天又订了一遍，并顺利的安利给了室友：</p><p><img src="/2022/06/04/2022-06-05-daily-blog/lunch.jpg"></p><p>今天的网站优化内容:</p><ol><li>添加文章字数统计功能</li><li>添加文章阅读数量</li><li>修改博客页面宽度</li><li>解决了网站不能添加图片的问题（添加图片是真的麻烦……）</li></ol>]]></content>
+        <content type="html"><![CDATA[<h1 id="今天完成的工作"><a href="#今天完成的工作" class="headerlink" title="今天完成的工作"></a>今天完成的工作</h1><p>　　今天的全部精力和时间都放在了撰写化学药品临床试验申请时需完成的非临床研究上，另外趁着吃午饭的空档，看完了泰格荆老师关于非临床药代动力学的授课内容。<br>　　今天一天总共完成了将近7000字的撰写，但是其中很多内容是直接照搬其他解析文章的原文的，所以最后还需要自己重头阅读一遍，这也会花一些时间。由于有些内容是来自于PPT上的内容，都是知识点，所以还需要把这些内容串成句子，并且还有很多细节内容需要完善。估计整个撰写完，得有个5天左右，并且得是把全天所有的时间都用来撰写。<br>　　另外今天下午打完球，吃完饭之后，围着我们这一个住宅区转了一圈。主要是今天做完上面这些工作之后，整个人有些疲惫，需要散散心，反思一下。</p><h1 id="人生还是得有个计划"><a href="#人生还是得有个计划" class="headerlink" title="人生还是得有个计划"></a>人生还是得有个计划</h1><p>　　人反思的目的是为了做的更好，我今天晚上的反思就是围绕着“疲惫”这个话题展开的。从我上面的描述中我想你应该可以读出来，负能量满满，压力山大，几乎读不出我因为完成了这些工作而获得的成就感。<br>　　经过走这么一圈，我的头脑似乎清晰了一些，我觉得之所以今天做完这么多事却没有获得很多成就感的原因如下：<br>　　首先我们要问一个问题，成就感从何而来？我认为是来自于突破，来自于完成了对自身的挑战。但是很明显，我对自己的要求实在是不低————我的目标只有一个，那就是把这篇关于非临床研究的文章写完，但可惜的是，这不是件一天就能完成的事情，所以当然我今天就没有做完，所以当然我就没有完成对自己的要求，就更别提突破了，所以当然我就获得不了成就感，所以当然我就获得了很多痛苦，所以当然我就不想继续完成这项伟大的事业了。<br>　　所以我觉得我应该设置这么一套机制，让自己每天都有挑战性的工作去做，并且我能够完成这些挑战。但同时这个机制应该可以与现在正在进行的项目匹配，因为这套机制的目的是帮助我熬过这一段难过的时间，最后完成目标（话说回来，这些事情真的非常反人类，因为人喜欢有及时反馈的任务或工作，最好我一不用花太多的时间去做，二可以立即看到效果，这也就是为什么设计网站这件事情如此吸引我，但是花一个星期写一篇文章实在不是我想干的事情）。<br>　　我想，最好的方法就是对项目进行拆分成一个个小任务，然后把任务分配到每一天（这个方法另外的一个巨大的好处就是，你不再会把一天所有时间都用来做一件事情，毕竟人生需要同时处理很多事情，需要平衡很多事情）。这似乎是个老生常谈的方法了。是的，但是我觉得这个方法需要优化，因为这依然没有解决反馈的问题，没有解决意义的问题。我的一个想法就是，在拆分项目任务的时候，要按照里程碑事件进行拆分，尽量保证每一天完成的工作都有足够的意义。今天有点晚了，我得赶紧去洗澡睡觉……今天的文字写的可能有点乱，因为现在有点神志不清，瞌睡……</p><h1 id="最近发生的大事件"><a href="#最近发生的大事件" class="headerlink" title="最近发生的大事件"></a>最近发生的大事件</h1><p>　　对了，好像是在昨天，kindle宣布退出中国市场，具体原因我还不是很清楚，是因为版权的问题？不知道……</p>]]></content>
       
       
       
@@ -42,11 +23,68 @@
     
     
     <entry>
+      <title>hERG试验</title>
+      <link href="/2022/06/06/2022-06-06-herg-safety-assay/"/>
+      <url>/2022/06/06/2022-06-06-herg-safety-assay/</url>
+      
+        <content type="html"><![CDATA[<h1 id="human-Ether-a-go-go-Related-Gene-hERG-安全性测试"><a href="#human-Ether-a-go-go-Related-Gene-hERG-安全性测试" class="headerlink" title="human Ether-a-go-go Related Gene (hERG) 安全性测试"></a>human Ether-a-go-go Related Gene (hERG) 安全性测试</h1><p>　　随着一些非心血管类药物相继被发现会诱发获得性QT间期延长综合症(LQTS)，导致严重的心律失常(Torsade de Pointes,TdP)而退出市场后，药物对心脏的安全性受到了更加广泛的重视。心脏的QT间期是指从QRS波群开始到T波结束的一段时间，包括心室去极化和复极化的过程，QT间期延长正受到越来越多的重视，并且被认为是新药安全性评价的关键指标之一。在心肌细胞中，human Ether-a-go-go Related Gene (hERG)编码的钾通道介导一种延迟整流钾电流(IKr)，IKr抑制是药物导致QT间期延长最重要的机制。hERG因其特殊的分子结构，使其可被结构多样化的化合物抑制。目前，检测化合物对hERG钾通道的作用已是临床前评价化合物心脏安全性的关键步骤，也是FDA要求的新药报批必备资料。<br><img src="/2022/06/06/2022-06-06-herg-safety-assay/QT%E9%97%B4%E6%9C%9F%E5%BB%B6%E9%95%BF.jpg"></p><p>　　我们可采用两种技术方法测试化合物对hERG钾通道的作用，分别是膜片钳技术(Patch-Clamp) 和FluxORTM Thallium Assay。</p><h2 id="膜片钳技术"><a href="#膜片钳技术" class="headerlink" title="膜片钳技术"></a>膜片钳技术</h2><p>　　膜片钳技术通过特制的玻璃管吸附于细胞表面，形成高阻抗千兆欧封接，可精确记录离子通道介导的电流的变化，被认为是研究离子通道的“金标准”。由于对操作员技术要求较高，目前已有仪器厂商研发生产出了自动膜片钳技术仪器，其使用与传统膜片钳类似的玻璃制芯片，可在精确测量的前提下实现高通量检测。<br><img src="/2022/06/06/2022-06-06-herg-safety-assay/%E8%86%9C%E7%89%87%E9%92%B3%E6%8A%80%E6%9C%AF.jpg"><br><img src="/2022/06/06/2022-06-06-herg-safety-assay/%E8%86%9C%E7%89%87%E9%92%B3%E6%8A%80%E6%9C%AF2.jpg"></p><h2 id="FluxORTM-Thallium-Assay"><a href="#FluxORTM-Thallium-Assay" class="headerlink" title="FluxORTM Thallium Assay"></a>FluxORTM Thallium Assay</h2><p>Thallium assay 使用FluxORTM荧光染料发光的方法测试化合物对hERG钾通道的影响。对铊敏感的荧光染料被加载到细胞膜内，细胞外的铊离子通过开放的hERG钾离子通道顺浓度梯度进入细胞内，与荧光染料结合后产生荧光。FluxORTM thallium assay 在国际上已经被制药公司及科研机构广泛用于化合物hERG活性检测，因其可以在96孔板或384孔板上进行测试，达到高通量的要求，适用于化合物初筛及先导化合物优化。<br><img src="/2022/06/06/2022-06-06-herg-safety-assay/fluxortm-thallium-assay.png"><br><img src="/2022/06/06/2022-06-06-herg-safety-assay/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%9C.png"></p><p>　　参考资料：</p><ol><li><a href="http://www.simm.ac.cn/jgsz/yjjg/jspt/sjylxyjgjkxjgzz/gzz_csff/201206/t20120618_3601591.html?randid=0.6638401629970496">hERG 测试</a></li></ol>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 非临床研究 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>圣上，今天无事发生……</title>
+      <link href="/2022/06/05/2022-06-05-daily-blog/"/>
+      <url>/2022/06/05/2022-06-05-daily-blog/</url>
+      
+        <content type="html"><![CDATA[<p>昨天吃到一个很好吃的烤鱼饭外卖，今天又订了一遍，并顺利的安利给了室友：</p><p><img src="/2022/06/05/2022-06-05-daily-blog/lunch.jpg"></p><p>今天的网站优化内容:</p><ol><li>添加文章字数统计功能</li><li>添加文章阅读数量</li><li>修改博客页面宽度</li><li>解决了网站不能添加图片的问题（添加图片是真的麻烦……）</li></ol>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 人生 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>化学创新药的非临床研究流程</title>
+      <link href="/2022/06/05/2022-06-05-chemical-IND-nonclinical-studies/"/>
+      <url>/2022/06/05/2022-06-05-chemical-IND-nonclinical-studies/</url>
+      
+        <content type="html"><![CDATA[<p>　　在制药领域，广义的非临床研究应该包括药学研究以及动物体内和体外的药理毒理研究，本文中非临床研究的概念采用的是狭义的非临床研究，即仅指代动物体内和体外的药理毒理研究，药学研究将开另外一个系列进行总结。</p><h1 id="化学创新药非临床研究流程概述"><a href="#化学创新药非临床研究流程概述" class="headerlink" title="化学创新药非临床研究流程概述"></a>化学创新药非临床研究流程概述</h1><p>　　化学创新药在进入首次临床研究前的非临床研究理想路线（即在一切顺利的情况下）一般按照下列顺序进行1：<br>　　1. 靶点选择和确证（knock-out, siRNA, antisense, antibody等）<br>　　2. 高通量筛选（High throughput screening）<br>　　3. 药物合成（合成非临床试验用药物）<br>　　4. 体外药效学试验（使用动物活体进行试验之前，先使用纯化酶或细胞证明具有药效作用的可能）<br>　　5. 药代动力学研究（为动物模型的选择和建立做准备）<br>　　6. 建立动物模型<br>　　7. 药物筛选（动物体内药效试验<br>　　8. 毒理研究（急毒长毒遗传毒生殖毒等）<br>　　9. 药学优化（根据拿到的毒理数据，从药学角度出发（比如调整工艺或处方），对可能严重影响药物安全性的关键属性进行优化）<br>　　10. 申请临床试验（IND）</p><p>　　对于化学创新药来说，在首次进入人体临床研究之前，在药理学方面要完成主要药效学和次要药效学研究；药代动力学要完成吸收、分布、代谢、排泄的研究，并完成分析方法开发和药物相互作用的研究；在安全性评价方面要完成安全药理学、剂量探索研究单次给药毒性（可以合并在同一个试验中一并完成）、重复给药毒性以及遗传毒性研究；<br>　　在进入III期临床试验之前，药代动力学要完成质量平衡研究，并进一步完善药物相互作用研究；在安全性方面，一方面要完成可支持临床试验周期的重复给药毒性研究，另一方面要完成I段和II段的生殖毒性研究<br>　　在申请上市申请之前，要完成可支持上市后用药周期的重复给药毒性研究，同时完成III段的生殖毒性研究，并在必要的情况下完成致癌性试验。<br>　　<br>　　各关键时间节点前需完成的非临床研究请见下表：</p><table><thead><tr><th align="center"></th><th align="center">Pre-IND</th><th align="center">IND — Pre-Phase III</th><th align="center">Phase III - NDA</th></tr></thead><tbody><tr><td align="center">PD</td><td align="center">Primary PD, Secondary PD</td><td align="center"></td><td align="center"></td></tr><tr><td align="center">PK</td><td align="center">Absorption, Distribution, Metabolism, Excretion, Analytical methods, DDI</td><td align="center">Mass Balance, DDI</td><td align="center"></td></tr><tr><td align="center">Safety</td><td align="center">DRF，RD tox, SP, Genotoxicity</td><td align="center">RD tox, Seg I, Seg II</td><td align="center">RD tox, Seg III, Carcinogenicity</td></tr></tbody></table><p>英文缩写中文解释：<em>Pre-IND &#x3D; 临床试验申请前；IND &#x3D; 临床试验申请； Phase III &#x3D; III期临床试验； NDA &#x3D; 药品上市申请； PD &#x3D; 药效学； Primary PD &#x3D; 主要药效学研究；Secondary PD&#x3D;次要药效学研究；PK&#x3D;药代动力学；Absorption&#x3D;吸收研究；Distritbution&#x3D;分布研究；Metabolism&#x3D;代谢研究；Excretion&#x3D;排泄研究；Analytical methods&#x3D;分析方法；DDI&#x3D;药物相互作用研究；Mass Balance&#x3D;质量平衡研究；Safety&#x3D;安全性研究；DRF&#x3D;剂量范围探索研究；RD tox&#x3D;重复给药毒性研究；SP&#x3D;安全药理学研究；Genotoxicity&#x3D;遗传毒性研究；SegI&#x2F;II&#x2F;III&#x3D;生殖毒性I&#x2F;II&#x2F;III段研究；Carcinogenicity&#x3D;致癌性研究</em></p><p>　　或者，你习惯看中文的话：</p><table><thead><tr><th align="center"></th><th align="center">临床试验申请前</th><th align="center">临床试验申请 — III期临床试验前</th><th align="center">III期临床试验 - 药品上市申请</th></tr></thead><tbody><tr><td align="center">药效学</td><td align="center">主要药效学研究，次要药效学研究</td><td align="center"></td><td align="center"></td></tr><tr><td align="center">药代动力学</td><td align="center">吸收研究，分布研究，代谢研究，排泄研究，分布研究，药物相互作用研究</td><td align="center">质量平衡研究，药物相互作用研究</td><td align="center"></td></tr><tr><td align="center">安全性研究</td><td align="center">剂量范围探索研究，重复给药毒性研究，安全药理学，遗传毒性研究</td><td align="center">重复给药毒性研究，生殖毒性I段研究，生殖毒性II段研究</td><td align="center">重复给药毒性研究，生殖毒性III段研究，致癌性研究</td></tr></tbody></table><p>　　后续会撰写一系列的文章对上述研究进行详细讲解。</p><p>　　参考资料：</p><ol><li><a href="http://yaoxue8.com/view/4831.html">新药临床前研发问题讨论</a></li><li><a href="https://www.medmeeting.com/#/home/VIDEO/videoDetail/16144?shenCeInfo=%7B%22type%22%3A%22%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5%22%7D">化学药品创新药IND申报药理毒理学及药代动力学差距分析要点介绍</a></li></ol>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 化学药品 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>人生第一个正式的博客网站</title>
       <link href="/2022/06/04/2022-06-04-daily-blog/"/>
       <url>/2022/06/04/2022-06-04-daily-blog/</url>
       
-        <content type="html"><![CDATA[<h1 id="这个网站的故事"><a href="#这个网站的故事" class="headerlink" title="这个网站的故事"></a>这个网站的故事</h1><p>　　趁着这个端午假期加周末，终于建立了属于我自己个人的一个网站！这个网站其实不是我建立的第一个网站，2021年年初的时候自己租过一个服务器和一个域名，然后跟着视频教程一步一步用宝塔面板和dedecms建立了真正人生第一个网站，后来又抛弃掉dedecms，转而使用Wordpress。<br>　　最开始建站的想法是做一个流量站，然后买了赚钱。但我是个非常需要激励，需要反馈的人，再加上没有人指导我怎么做，网站建设初期的无人问津直接导致我放弃了这个想法。<br>　　然而我依然拥有一个网站，我依然知道一个跟外界沟通联络的方式。2021年我进入了药品注册行业，而这恰恰是一个对沟通需求非常大的行业，闭门造车是大忌（当然任何一个行业都是这样），所以在2021年年中萌生了建一个博客网站的想法，把自己对法规的理解和解读发表出来，能帮到一些人也好，能受到高人的批评和指点也好，总比自己整天闷头读法规有意思。但我又是一个追求完美的人，我希望拥有我想实现的网站功能，而且这些功能还必须以我想要的风格展现——我希望拥有一个<strong>真正属于我</strong>的网站，因此纵使拥有强大的插件系统，Wordpress还是入不了我的法眼（主要还是菜，不会开发）。<br>　　莫愁前路无知己，天下谁人不识君？2022年6月2日晚间，距离我租用的服务器和域名到期3个月之后，有幸通过京东大佬<a href="https://liujiaweia.github.io/">Liujiawei</a>了解到通过Github的page功能，可以实现在不额外租用服务器的情况下（服务器很贵的，一年几百到几千元不等）建立属于自己的博客网站。自己研究了两天之后，就有了你现在看到的这个网站。</p><h1 id="这个网站的目的和功能"><a href="#这个网站的目的和功能" class="headerlink" title="这个网站的目的和功能"></a>这个网站的目的和功能</h1><p>　　我是制药行业的，做药的都讲究QbD（Quality by Design），“以终为始”是我们的信仰。所以网站的第一篇内容当然要写一下我对这个网站的期望和展望。<br>网站是用来写博客的，而写博客的目的和初心主要有两个，第一是复习，第二是记录。</p><h2 id="第一个目的：复习"><a href="#第一个目的：复习" class="headerlink" title="第一个目的：复习"></a>第一个目的：复习</h2><p>　　我是个喜欢学习的人，是个喜欢学习学习方法的人，也是个喜欢总结学习方法的人。不管是从其他学霸成功人士那里听来的，还是自己总结的学习方法中，最最核心的只有一点：学以致用。<br>　　有一种学习方法就提出，学习一项知识最好的时间就是需要用到这项知识的时候。对于这一点我无比赞同，我的观点甚至会更加激进一些：如果没有使用场景，则学习知识是没有任何意义的。<br>　　但我并不是读书无用论者，我能意识到，有些知识就是在我不经意间学会的，而在以后的生活中给我提供了莫大的帮助。所以现在最重要的问题不是讨论学习有没有用，也不是讨论怎么学习高效，而是要讨论怎么创造使用场景，怎么制造问题，制造困难。有了问题，学习效率自然会高效起来。<br>　　这个网站就是我的一个尝试，我会发表我对知识的理解和实操。能帮到一些人也好，能受到高人的批评和指点也好，总比自己整天闷头学习有意思。</p><h2 id="第二个目的：记录"><a href="#第二个目的：记录" class="headerlink" title="第二个目的：记录"></a>第二个目的：记录</h2><p>　　可能因为是因为最近北京疫情导致居家办公的原因，前几日的工作学习生活状态不太好。感觉自己每天干了很多事情，学了跟多知识，但并没有实打实的拥有感和掌控感。唯一确定的，就是今天过完了。可我收获了什么呢？所以最近也是在不断反思自己。<br>　　自己反思的同时，也少不了跟朋友们的沟通，沟通的时候就会碰撞出思想的火花。前天跟好朋友Bob打视频电话聊天。Bob是个减肥成功的典范，但他同时也向我表示，在开心高兴自豪之余，后悔没在自己胖时候留下几张照片……<br>　　这句话突然点醒了我，倒不是说提醒我赶紧去自拍，而是让我意识到，可能我缺乏的就是对人生的记录。做了什么，学了什么，这些都是虚的。但做过的卷子，用过的草稿纸，却是真实的。你怎么证明学过？这就是证据；你怎么证明活过？这就是证据！<br>　　所以这个网站也是我的一个记录工具。希望我的所思所想所感，都可以在此处结晶，化作我活过的证据。</p>]]></content>
+        <content type="html"><![CDATA[<h1 id="这个网站的故事"><a href="#这个网站的故事" class="headerlink" title="这个网站的故事"></a>这个网站的故事</h1><p>　　趁着这个端午假期加周末，终于建立了属于我自己个人的一个网站！这个网站其实不是我建立的第一个网站，2021年年初的时候自己租过一个服务器和一个域名，然后跟着视频教程一步一步用宝塔面板和dedecms建立了真正人生第一个网站，后来又抛弃掉dedecms，转而使用Wordpress。<br>　　最开始建站的想法是做一个流量站，然后卖了赚钱。但我是个非常需要激励，需要反馈的人，再加上没有人指导我怎么做，网站建设初期的无人问津直接导致我放弃了这个想法。<br>　　然而我依然拥有一个网站，我依然知道一个跟外界沟通联络的方式。2021年我进入了药品注册行业，而这恰恰是一个对沟通需求非常大的行业，闭门造车是大忌（当然任何一个行业都是这样），所以在2021年年中萌生了建一个博客网站的想法，把自己对法规的理解和解读发表出来，能帮到一些人也好，能受到高人的批评和指点也好，总比自己整天闷头读法规有意思。但我又是一个追求完美的人，我希望拥有我想实现的网站功能，而且这些功能还必须以我想要的风格展现——我希望拥有一个<strong>真正属于我</strong>的网站，因此纵使拥有强大的插件系统，Wordpress还是入不了我的法眼（主要还是菜，不会开发）。<br>　　莫愁前路无知己，天下谁人不识君？2022年6月2日晚间，距离我租用的服务器和域名到期3个月之后，有幸通过京东大佬<a href="https://liujiaweia.github.io/">Liujiawei</a>了解到通过Github的page功能，可以实现在不额外租用服务器的情况下（服务器很贵的，一年几百到几千元不等）建立属于自己的博客网站。自己研究了两天之后，就有了你现在看到的这个网站。</p><h1 id="这个网站的目的和功能"><a href="#这个网站的目的和功能" class="headerlink" title="这个网站的目的和功能"></a>这个网站的目的和功能</h1><p>　　我是制药行业的，做药的都讲究QbD（Quality by Design），“以终为始”是我们的信仰。所以网站的第一篇内容当然要写一下我对这个网站的期望和展望。<br>网站是用来写博客的，而写博客的目的和初心主要有两个，第一是复习，第二是记录。</p><h2 id="第一个目的：复习"><a href="#第一个目的：复习" class="headerlink" title="第一个目的：复习"></a>第一个目的：复习</h2><p>　　我是个喜欢学习的人，是个喜欢学习学习方法的人，也是个喜欢总结学习方法的人。不管是从其他学霸成功人士那里听来的，还是自己总结的学习方法中，最最核心的只有一点：学以致用。<br>　　有一种学习方法就提出，学习一项知识最好的时间就是需要用到这项知识的时候。对于这一点我无比赞同，我的观点甚至会更加激进一些：如果没有使用场景，则学习知识是没有任何意义的。<br>　　但我并不是读书无用论者，我能意识到，有些知识就是在我不经意间学会的，而在以后的生活中给我提供了莫大的帮助。所以现在最重要的问题不是讨论学习有没有用，也不是讨论怎么学习高效，而是要讨论怎么创造使用场景，怎么制造问题，制造困难。有了问题，学习效率自然会高效起来。<br>　　这个网站就是我的一个尝试，我会发表我对知识的理解和实操。能帮到一些人也好，能受到高人的批评和指点也好，总比自己整天闷头学习有意思。</p><h2 id="第二个目的：记录"><a href="#第二个目的：记录" class="headerlink" title="第二个目的：记录"></a>第二个目的：记录</h2><p>　　可能因为是因为最近北京疫情导致居家办公的原因，前几日的工作学习生活状态不太好。感觉自己每天干了很多事情，学了跟多知识，但并没有实打实的拥有感和掌控感。唯一确定的，就是今天过完了。可我收获了什么呢？所以最近也是在不断反思自己。<br>　　自己反思的同时，也少不了跟朋友们的沟通，沟通的时候就会碰撞出思想的火花。前天跟好朋友Bob打视频电话聊天。Bob是个减肥成功的典范，但他同时也向我表示，在开心高兴自豪之余，后悔没在自己胖时候留下几张照片……<br>　　这句话突然点醒了我，倒不是说提醒我赶紧去自拍，而是让我意识到，可能我缺乏的就是对人生的记录。做了什么，学了什么，这些都是虚的。但做过的卷子，用过的草稿纸，却是真实的。你怎么证明学过？这就是证据；你怎么证明活过？这就是证据！<br>　　所以这个网站也是我的一个记录工具。希望我的所思所想所感，都可以在此处结晶，化作我活过的证据。</p>]]></content>
       
       
       
